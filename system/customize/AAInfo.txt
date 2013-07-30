@@ -1,0 +1,6 @@
+TaskID : 324914
+Project : M7_UL_JB_50_S
+SKU : HTC Europe[401]
+ROM Ver : 2.24.401.1
+Customization Id : 539149
+RCMS Id : 495
